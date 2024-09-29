@@ -2,6 +2,7 @@
 # Simple Netflix Checker - Made by syedbilalalam 👻
 
 THIS PROGRAM IS STRICTLY MADE FOR EDUCATIONAL PURPOSES!
+![Valid](https://github.com/user-attachments/assets/d252e2c7-e42b-423b-8208-c2e9ff2604a8)
 
 ## How to use? 📖
 
